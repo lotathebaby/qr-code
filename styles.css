@@ -36,12 +36,12 @@ img {
 @media only screen and (max-width: 400px) {
     .rest {
         width: 250px;
-        height: 480px;
+        height: 400px;
         margin: 40px auto;
     }
     img {
         width: 200px;
-        height: 300px;
+        height: 200px;
     }
     .improve {
         margin-top: 15px;
